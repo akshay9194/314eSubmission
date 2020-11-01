@@ -1,0 +1,13 @@
+C:\Users\shvmc\source\repos\WebScraper\WebScraper\bin\Debug\netcoreapp3.1\WebScraper.exe
+C:\Users\shvmc\source\repos\WebScraper\WebScraper\obj\Debug\netcoreapp3.1\WebScraper.csprojAssemblyReference.cache
+C:\Users\shvmc\source\repos\WebScraper\WebScraper\obj\Debug\netcoreapp3.1\WebScraper.AssemblyInfoInputs.cache
+C:\Users\shvmc\source\repos\WebScraper\WebScraper\obj\Debug\netcoreapp3.1\WebScraper.AssemblyInfo.cs
+C:\Users\shvmc\source\repos\WebScraper\WebScraper\bin\Debug\netcoreapp3.1\WebScraper.deps.json
+C:\Users\shvmc\source\repos\WebScraper\WebScraper\bin\Debug\netcoreapp3.1\WebScraper.runtimeconfig.json
+C:\Users\shvmc\source\repos\WebScraper\WebScraper\bin\Debug\netcoreapp3.1\WebScraper.runtimeconfig.dev.json
+C:\Users\shvmc\source\repos\WebScraper\WebScraper\bin\Debug\netcoreapp3.1\WebScraper.dll
+C:\Users\shvmc\source\repos\WebScraper\WebScraper\bin\Debug\netcoreapp3.1\WebScraper.pdb
+C:\Users\shvmc\source\repos\WebScraper\WebScraper\obj\Debug\netcoreapp3.1\WebScraper.dll
+C:\Users\shvmc\source\repos\WebScraper\WebScraper\obj\Debug\netcoreapp3.1\WebScraper.pdb
+C:\Users\shvmc\source\repos\WebScraper\WebScraper\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\shvmc\source\repos\WebScraper\WebScraper\obj\Debug\netcoreapp3.1\WebScraper.csproj.CopyComplete
